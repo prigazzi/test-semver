@@ -1,0 +1,12 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "conventional-commits",
+    "released"
+  ],
+  "owner": "prigazzi",
+  "repo": "test-semver",
+  "name": "Pablo Rigazzi",
+  "email": "pablo.rigazzi@gmail.com"
+}
